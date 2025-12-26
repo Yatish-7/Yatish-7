@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning about **CyberSecurity & Blockchain Technology**
 
-- 💬 Ask me about **Spring, Data Structures, Java, C, Cybersecurity**
+- 💬 Ask me about **SpringBoot, Data Structures, Java, C, Cybersecurity**
 
 - 📫 How to reach me **mailtoyatish55@gmail.com**
 
