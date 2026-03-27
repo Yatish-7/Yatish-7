@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm M Yatish Datta</h1>
+<h1 align="center">Hi, I'm M Yatish Datta</h1>
 <h3 align="center">Cybersecurity & Blockchain Enthusiast | Full Stack Developer | Navigating the Digital Frontier</h3>
 
 <p align="center">
@@ -32,7 +32,11 @@
 ### 🏆 GitHub Trophies
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=yatish-7&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="yatish-7 trophies" />
+  <img src="https://img.shields.io/badge/Commits-66-brightgreen?style=for-the-badge&logo=github" alt="commits"/>
+  <img src="https://img.shields.io/badge/Streak-2%20Days-orange?style=for-the-badge&logo=github" alt="streak"/>
+  <img src="https://img.shields.io/badge/Repositories-Public-blue?style=for-the-badge&logo=github" alt="repos"/>
+  <img src="https://img.shields.io/badge/Language-Java%20%7C%20Python-red?style=for-the-badge&logo=github" alt="language"/>
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-purple?style=for-the-badge&logo=github" alt="focus"/>
 </p>
 
 ---
@@ -75,12 +79,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yatish-7&show_icons=true&theme=synthwave&locale=en&hide_border=true&cache_seconds=1800" alt="yatish-7 stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yatish-7&layout=compact&theme=dracula&hide_border=true&cache_seconds=1800" alt="yatish-7 top langs" width="40%"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=yatish-7&show_icons=true&theme=synthwave&locale=en&hide_border=true" alt="yatish-7 stats" width="48%"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=yatish-7&layout=compact&theme=dracula&hide_border=true" alt="yatish-7 top langs" width="40%"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yatish-7&theme=dark&hide_border=true" alt="yatish-7 streak" width="55%"/>
+  <img src="https://streak-stats.demolab.com/?user=yatish-7&theme=dark&hide_border=true&fire=DD2727&ring=DD2727&currStreakLabel=DD2727" alt="yatish-7 streak" width="55%"/>
 </p>
 
 ---
@@ -94,4 +98,7 @@
   <a href="https://yatish-s-portfolio.web.app" target="_blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Portfolio" height="30" width="40" />
   </a>
-  <a h
+  <a href="mailto:mailtoyatish55@gmail.com" target="_blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" height="30" width="40" />
+  </a>
+</p>
