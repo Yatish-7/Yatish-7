@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm M Yatish Datta</h1>
+<h1 align="center">Hi , I'm M Yatish Datta</h1>
 <h3 align="center">Cybersecurity & Blockchain Enthusiast | Full Stack Developer | Navigating the Digital Frontier</h3>
 
 <p align="center">
@@ -32,9 +32,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yatish-7&theme=dracula&no-frame=true&row=1&column=6" alt="yatish-7 trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=yatish-7&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="yatish-7 trophies" />
 </p>
 
 ---
@@ -77,12 +75,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yatish-7&show_icons=true&theme=synthwave&locale=en&hide_border=true" alt="yatish-7 stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yatish-7&show_icons=true&theme=dracula&locale=en&layout=compact&hide_border=true" alt="yatish-7 top langs" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yatish-7&show_icons=true&theme=synthwave&locale=en&hide_border=true&cache_seconds=1800" alt="yatish-7 stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yatish-7&layout=compact&theme=dracula&hide_border=true&cache_seconds=1800" alt="yatish-7 top langs" width="40%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yatish-7&theme=dark&hide_border=true" alt="yatish-7 streak" width="55%"/>
+  <img src="https://streak-stats.demolab.com?user=yatish-7&theme=dark&hide_border=true" alt="yatish-7 streak" width="55%"/>
 </p>
 
 ---
@@ -96,7 +94,4 @@
   <a href="https://yatish-s-portfolio.web.app" target="_blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Portfolio" height="30" width="40" />
   </a>
-  <a href="mailto:mailtoyatish55@gmail.com">
-    <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" height="30" width="40" />
-  </a>
-</p>
+  <a h
