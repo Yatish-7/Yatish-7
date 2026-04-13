@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm M Yatish Datta</h1>
-<h3 align="center">Cybersecurity & Blockchain Enthusiast | Full Stack Developer | Navigating the Digital Frontier</h3>
+<h3 align="center">Cybersecurity Enthusiast | Full Stack Developer | Navigating the Digital Frontier</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yatish-7&label=Profile%20views&color=0e75b6&style=flat-square" alt="yatish-7" />
