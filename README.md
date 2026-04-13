@@ -20,7 +20,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🔐 Passionate about **Cybersecurity & Blockchain Technology**
+- 🔐 Passionate about **Cybersecurity**
 - 🌱 Currently deepening my knowledge in **Security Research & Web3**
 - 💡 I love building full-stack applications with a focus on **backend systems & security**
 - 💬 Ask me about **Java, Spring Boot, Data Structures, Cybersecurity, Python**
